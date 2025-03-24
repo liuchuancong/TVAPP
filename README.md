@@ -33,6 +33,7 @@
 | MX Player播放器        | v1.78.6   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MX_Player_1.78.6.apk) | 🟢    | 解锁VIP,集成编码器版本                                       |
 | bilibiliTV版 BBLL      | v1.5.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/BBLL-v1.5.2.apk) | 🟢    | 哔哩哔哩TV第三方版，完美适配TV与遥控器操作，支持弹幕功能，还支持与手机端会员通用，诸如8K、4K、杜比视界等画质应有尽有 |
 | 儿歌多多TV             | V1.3.0.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/儿歌多多TV-v1.3.0.0无限制版.apk) | 🟢    | 无限制版                                                     |
+| 七星智教               | v2.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/七星智教_v2.3.apk) | 🟢    | 集教育与娱乐于一体海量教育资源，专为儿童教育设计，全新的资源接口 |
 | ...updating            |           |                                                              |      |                                                              |
 
 ## 接口源 🌟

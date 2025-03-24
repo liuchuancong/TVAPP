@@ -91,6 +91,9 @@
 
 ```
 在线源：
+https://live.iptv365.org/live.txt   # TV直播源 (每日自动收集・持续更新)
+https://live.iptv365.org/live.m3u   # TV直播源 (每日自动收集・持续更新)
+http://emby.free.coms.su/diyp/live.php  # 自动更新源
 http://xhztv.top/new.txt  # 小盒子在线源
 https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
 https://live.kilvn.com/iptv.m3u  # 自动更新源

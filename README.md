@@ -28,8 +28,8 @@
 | 家庭KTV                 | v1.15     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E5%AE%B6%E5%BA%ADKTV_1_15_%E5%8E%BB%E6%9B%B4%E6%96%B0_%E4%BF%9D%E7%95%99%E6%89%8B%E6%9C%BA%E7%82%B9%E6%AD%8C.apk) | 🟢    | 去更新 保留手机点歌                                          |
 | 想唱就唱修复版          | v2.15.63  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E6%83%B3%E5%94%B1%E5%B0%B1%E5%94%B1%E4%BF%AE%E5%A4%8D%E7%89%88v2.15.63.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 金音KTV·金尊专享会员版  | 20250309  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E9%87%91%E9%9F%B3%C2%B7%E9%87%91%E5%B0%8A%E4%B8%93%E4%BA%AB%E4%BC%9A%E5%91%98%E7%89%88.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
-| 爱唱KTV会员版           | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/爱唱KTV v2.16.58 会员版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
-| 智能K歌解锁VIP版        | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智能K歌 2.16.58 解锁VIP版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
+| 爱唱KTV会员版           | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/爱唱KTV-v2.16.58 会员版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
+| 智能K歌解锁VIP版        | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智能K歌-v2.16.58 解锁VIP版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 我的电视                | v1.3.9.8  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.7.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OurTV_3.7.0_android_tv.apk) | 🟢    | 电视直播软件，安装即可使用，高清，超清，蓝光，完全免费       |
 | iKTV                    | v70.0.0   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/iktv70.0.0修复下载歌曲.apk) | 🔴    | 纯净新春版，修复下载歌曲功能 曲库新增4000+ 目前下载不了歌曲，用其他的 |
@@ -41,7 +41,7 @@
 | bilibiliTV版 BBLL       | v1.5.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/BBLL-v1.5.2.apk) | 🟢    | 哔哩哔哩TV第三方版，完美适配TV与遥控器操作，支持弹幕功能，还支持与手机端会员通用，诸如8K、4K、杜比视界等画质应有尽有 |
 | 儿歌多多TV              | V1.3.0.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/儿歌多多TV-v1.3.0.0无限制版.apk) | 🟢    | 无限制版                                                     |
 | 七星智教                | v2.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/七星智教_v2.3.apk) | 🟢    | 集教育与娱乐于一体海量教育资源，专为儿童教育设计，全新的资源接口 |
-| CIBN糖豆-糖豆广场舞TV版 | v3.2.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/CIBN糖豆 3.2.0-糖豆TV版-会员版_teyond) | 🟢    | 解锁会员版，登录账号既是VIP                                  |
+| CIBN糖豆-糖豆广场舞TV版 | v3.2.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk) | 🟢    | 解锁会员版，登录账号既是VIP                                  |
 | ...updating             |           |                                                              |      |                                                              |
 
 ## 接口源 🌟

@@ -10,9 +10,9 @@
 
 | APP名称                 | 版本      | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | --------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| TVBox                   | 20250326  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明         |
+| TVBox                   | 20250326  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
 | 影视仓                  | v6.0.6    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93_6.0.6.apk) | 🟢    | 安卓5.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享 |
-| 影视仓                  | v5.0.40.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.40.1.apk) | 🟢    | 兼容低版本                                                   |
+| 影视仓                  | v5.0.40.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.40.1.apk) | 🟢    | 兼容低版本，最新版本闪退的可以安装这个试试                   |
 | 月光宝盒Box             | 20250309  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Box0309.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
 | 月光宝盒Max             | 20250309  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Max0309.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250309  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92PLUS0309.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
@@ -58,7 +58,6 @@
  http://fty.xxooo.cf/tv/			# 神秘哥哥们备用接口
  http://rihou.cc:55			# 开心接口
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
- https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json	# PG接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
  https://cdn.gitmirror.com/bb/xduo/libs/master/index.json 	# 道长接口
  http://mzjk.top/禁止贩卖			# 宝盒接口

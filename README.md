@@ -16,11 +16,11 @@
 | 月光宝盒Box             | 20250309  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Box0309.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
 | 月光宝盒Max             | 20250309  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Max0309.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250309  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92PLUS0309.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
-| FongMi影视              | v3.4.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视/3.4.2) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
+| FongMi影视              | v3.4.4    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视/3.4.4) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
 | OK影视                  | v2.8.3    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/OK%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-2.8.3.apk) | 🟢    | 标准版                                                       |
 | OK影视Pro               | v3.2.3    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/OK%E5%BD%B1%E8%A7%86Pro-%E7%94%B5%E8%A7%86%E7%89%88--3.2.3.apk) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
-| 欧歌影视                | v6.0.6    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%AC%A7%E6%AD%8C%E5%A4%9A%E4%BB%932025-3-7%E6%AC%A76.0.6.apk) | 🟢    | 集成多种影视资源的免费电视软件                               |
-| 欧歌影视魔改            | v6.0.6    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%AC%A7%E6%AD%8C%E5%A4%9A%E4%BB%932025-3-7%E9%AD%94%E6%94%B96.0.6.apk) | 🟢    | 集成多种影视资源的免费电视软件                               |
+| 欧歌影视                | v6.0.6    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%AC%A7%E6%AD%8C%E5%A4%9A%E4%BB%932025-3-7%E6%AC%A76.0.6.apk) | 🟢    | 集成多种影视资源的免费电视软件，内置欧歌源，安装即用         |
+| 欧歌影视魔改            | v6.0.6    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%AC%A7%E6%AD%8C%E5%A4%9A%E4%BB%932025-3-7%E9%AD%94%E6%94%B96.0.6.apk) | 🟢    | 集成多种影视资源的免费电视软件，内置欧歌源，安装即用         |
 | 小苹果影视              | v1.5.7    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XPGBOX-release-1.5.7.apk) | 🟢    | 内置上百线路资源。免输入接口，安装即用                       |
 | 好好看TV版              | v1.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/好好看_TV_1.1.0.apk) | 🟢    | 网飞猫同一系列，纯净无广告。汇集了Netflix、电影、短剧、剧集、动漫、综艺等资源，各大平台资源同步更新，内置多条超清、蓝光、优质等线路，支持投屏、影评等功能 |
 | 全民K歌(MV版)           | v5.9.0.1  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E5%85%A8%E6%B0%91K%E6%AD%8C(MV%E7%89%88)v5.9.0.1(%E5%85%8D%E7%99%BB%E5%BD%95%E7%89%88).apk) | 🟢    | 联想盒子提取免登录版                                         |
@@ -50,6 +50,17 @@
 ## 接口源 🌟
 
 所有接口都是经过测试的，如果出现加载失败等情况，可能是因为接口针对的盒子有兼容问题，可以多试试几个接口
+<details>
+  <summary>单线路、多线路、多仓概念</summary>
+  <ul>
+    <li>线路：一次推送一个线路。代表软件：TVBOx、FM壳子、OK壳子、影视仓、宝盒</li>
+    <li>多线路：几个或几十个线路组成多线路。代表软件：FM壳子、OK壳子、影视仓、宝盒</li>
+  	<li>多仓：多个多线路组成多仓。代表软件：影视仓、宝盒</li>
+  </ul>
+  <p>复制对应接口地址填写到你使用软件配置里就OK</p>
+  <p>温馨提示：接口完全免费，切勿付费购买。请勿相信视频及接口中任何广告.</p>
+</details>
+
 
 ```
 单仓：

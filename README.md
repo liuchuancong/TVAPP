@@ -42,6 +42,7 @@
 | MX Player播放器         | v1.94.0   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/MXPlayer-1.94.0-v8a-CN-Mod.apk) | 🟢    | 去广告、切断不必要联网请求，集成编码器版本                   |
 | MX Player播放器Pro版    | v1.86.0   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MXPlayer-Pro-1.86.0-v7a-Mod-Balatan.apk) | 🟢    | 解锁VIP,集成编码器版本,保留完整多国语言。专业版的更新及修正经常滞后免费版，其它播放功能在作为本地播放器使用方面并没有啥区别！ |
 | bilibiliTV版 BBLL       | v1.5.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/BBLL-v1.5.2.apk) | 🟢    | 哔哩哔哩TV第三方版，完美适配TV与遥控器操作，支持弹幕功能，还支持与手机端会员通用，诸如8K、4K、杜比视界等画质应有尽有 |
+| 哔哩哔哩TV版            | v1.5.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/哔哩哔哩_1.6.6_v10修复版.apk) | 🟢    | 哔哩哔哩TV第三方版，V10 最新修复版。增加了很多功能：cc字幕、弹幕以及视频过滤等等 |
 | 儿歌多多TV              | v1.3.1.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/儿歌多多TV_1.3.1.0无限制版.apk) | 🟢    | 无限制版                                                     |
 | 七星智教                | v2.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/七星智教_v2.3.apk) | 🟢    | 集教育与娱乐于一体海量教育资源，专为儿童教育设计，全新的资源接口 |
 | CIBN糖豆-糖豆广场舞TV版 | v3.2.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk) | 🟢    | 解锁会员版，登录账号既是VIP                                  |

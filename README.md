@@ -31,7 +31,7 @@
 | 爱唱KTV会员版           | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/爱唱KTV-v2.16.58会员版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 智能K歌解锁VIP版        | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智能K歌-v2.16.58解锁VIP版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 我的电视                | v1.3.9.8  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
-| OurTV(我们的电视)       | v3.7.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/OurTV_3.7.0_android_tv.apk) | 🟢    | 电视直播软件，安装即可使用，高清，超清，蓝光，完全免费       |
+| OurTV(我们的电视)       | v3.8.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/OurTV_3.8.0_android_tv.apk) | 🟢    | 电视直播软件，安装即可使用，高清，超清，蓝光，完全免费。如果播放卡顿，可使用3.1.1版本。 |
 | 酷9直播                 | v1.6.5.4  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9_1.6.5.4.apk) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿 |
 | HTV直播                 | v2.0.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/HTV-v2.0.0.apk) | 🟢    | 开源版全新电视直播软件，兼容Android 4.4和IPv4，可播放rtp等各种源 |
 | iKTV                    | v70.0.0   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/iktv70.0.0修复下载歌曲.apk) | 🔴    | 纯净新春版，修复下载歌曲功能 曲库新增4000+ 目前下载不了歌曲，用其他的 |

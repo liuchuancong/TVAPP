@@ -70,10 +70,10 @@
 
 ```
 单仓：
- http://www.饭太硬.com/tv/		# 饭太硬接口
+ http://www.饭太硬.com/tv	# 饭太硬接口
  http://我不是.摸鱼儿.com			# 摸鱼儿接口
  http://肥猫.com				# 肥猫接口
- http://fty.xxooo.cf/tv/			# 神秘哥哥们备用接口
+ http://fty.xxooo.cf/tv			# 神秘哥哥们备用接口
  http://rihou.cc:55			# 开心接口
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
@@ -98,6 +98,8 @@
  http://124.71.189.194/a.json		# 小白龙
 
 多仓：
+ https://www.iyouhun.com/tv/yh   # 游魂多仓
+ https://www.iyouhun.com/tv/dc   # 游魂多仓
  http://mzjk.top/DC   # 月光宝盒多仓
  http://xhztv.top/dc/   # 小盒子多仓
  http://xhztv.top/DC.txt  # 小盒子多仓（备）

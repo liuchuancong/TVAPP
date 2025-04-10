@@ -36,6 +36,7 @@
 | HTV直播                 | v2.0.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/HTV-v2.0.0.apk) | 🟢    | 开源版全新电视直播软件，兼容Android 4.4和IPv4，可播放rtp等各种源 |
 | 小飞电视                | v2.7.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/xiaofeitv_v2.7.0.apk) | 🟢    | 小飞电视app是一款免费用来播放高清电视的工具，可以在各种安卓电视，手机上面观看高清的电视节目，其主要为用户提供央视、卫视、各地方电视台。 |
 | 千寻直播                | v1.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/千寻直播_1.1.0[支持语音换台].apk) | 🟢    | 这又是一款免费的电视直播App，支持央视、卫视、各地方电视台。**支持语音换台**。 |
+| 星火TV                  | v1.0.48   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/星火TV_1.0.48.apk) | 🟢    | 完全免费，无需登录、无需授权，无任何广告弹窗，最大限度的简化页面结构，呈现给您最直观、最纯粹的电视节目。去广告去启动购物台版，5000+频道 |
 | iKTV                    | v70.0.0   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/iktv70.0.0修复下载歌曲.apk) | 🔴    | 纯净新春版，修复下载歌曲功能 曲库新增4000+ 目前下载不了歌曲，用其他的 |
 | 小鸡模拟器TV版          | v1.1.8    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8TV%E7%89%88v1.1.8%E6%B0%B8%E4%B9%85%E5%8E%BB%E5%8D%87%E7%BA%A7.apk) | 🟢    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。 |
 | 茱元游戏TV              | v2.9.3    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/茱元游戏TV-2.9.3.apk) | 🟢    | 支持搜索想玩的游戏，下载速度极快，连接手柄就可以轻松畅玩，万款海量游戏终身永久免费玩，让你瞬间回到街机时代的欢乐时光。 |

@@ -67,8 +67,10 @@
   	<li>多仓：多个多线路组成多仓。代表软件：影视仓、宝盒</li>
   </ul>
   <p>复制对应接口地址填写到你使用软件配置里就OK</p>
+  <p>详细教程：<a href="https://app.iyouhun.com//help" target="_blank">帮助中心</a></p>
   <p>温馨提示：接口完全免费，切勿付费购买。请勿相信视频及接口中任何广告.</p>
 </details>
+
 
 
 ```
@@ -77,7 +79,6 @@
  http://我不是.摸鱼儿.com			# 摸鱼儿接口
  http://肥猫.com				# 肥猫接口
  http://fty.xxooo.cf/tv			# 神秘哥哥们备用接口
- http://rihou.cc:55			# 开心接口
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
  https://cdn.gitmirror.com/bb/xduo/libs/master/index.json 	# 道长接口
@@ -85,10 +86,10 @@
  http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
  https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json		# 南风接口
  https://tv.菜妮丝.top			# 菜妮丝接口
+ https://weixine.net/ysc.json			# 运输车
  https://api.hgyx.vip/hgyx.json		# HG接口
  https://dxawi.github.io/0/0.json	# dxawi
- https://3450.kstore.space/DEMO.json		# 小米DEMO
- http://www.mpanso.com/小米/DEMO.json		# 小米DEMO2
+ http://www.mpanso.com/小米/DEMO.json		# 小米
  http://xhztv.top/xhz		# 小盒子单仓
  http://xhztv.top/4k.json		# 小盒子4K
  https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json		# 潇洒接口
@@ -98,7 +99,6 @@
  http://ok321.top/ok		# OK影视公开接口
  https://ztha.top/TVBox/thdjk.json		# 挺好分享
  https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json		# 宝盒VIP
- http://124.71.189.194/a.json		# 小白龙
 
 多仓：
  https://www.iyouhun.com/tv/yh   # 游魂多仓

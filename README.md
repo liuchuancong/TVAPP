@@ -73,8 +73,6 @@
   <p>温馨提示：接口完全免费，切勿付费购买。请勿相信视频及接口中任何广告.</p>
 </details>
 
-
-
 ```
 单仓：
  http://www.饭太硬.com/tv	# 饭太硬接口
@@ -117,51 +115,66 @@
 ```
 
 ## 直播源 🌟
-
+> github地址使用时 请自行添加代理
 ```
-在线源：
-https://live.iptv365.org/live.txt   # TV直播源 (每日自动收集・持续更新)
-https://live.iptv365.org/live.m3u   # TV直播源 (每日自动收集・持续更新)
-http://emby.free.coms.su/diyp/live.php  # 自动更新源
-http://xhztv.top/new.txt  # 小盒子在线源
-https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
-https://live.kilvn.com/iptv.m3u  # 自动更新源
-https://nft6cf127.serv00.net/ku9.php  # KU9源
-https://live.zbds.top/tv/iptv4.txt  # ZBDSIPV4
-https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt  # IPv4酒店电视直播源
-https://ghfast.top/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959  # 野火959
-https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt  # 潇洒AI直播
-http://47.120.41.246:8899/zb.txt  # IPTV直播
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u  # 天微M3U
-https://szyyds.cn/tv/live/x.txt  # 小马影视
-http://8.138.7.223/live.txt  # 熊猫直播源
-https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt  # 稳定github直播
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
-https://iptv-org.github.io/iptv/index.m3u
-http://emby.free.coms.su/diyp/tvbox.php
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
-https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
-https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://iptv-org.github.io/iptv/countries/tw.m3u
-https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-https://goodiptv.vercel.app/huyayqk.m3u
-https://goodiptv.vercel.app/douyuyqk.m3u
-https://www.goodiptv.club/bililive.m3u
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u 
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
-https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+推荐在线源：
+ https://live.iptv365.org/live.txt   # TV直播源 (每日自动收集・持续更新)
+ https://live.iptv365.org/live.m3u   # TV直播源 (每日自动收集・持续更新)
+ https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
+ https://szyyds.cn/tv/live/x.txt  # 小马影视
+ http://8.138.7.223/live.txt  # 熊猫直播源
+ http://47.120.41.246:8899/zb.txt  # IPTV直播
+ https://live.kilvn.com/iptv.m3u  # 自动更新源(上游范明明源)
+ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u  # 天微M3U
+ https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959  # 野火959
+ https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
+ https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
+
+纯 IPv4 源：
+ https://live.izbds.com/tv/iptv4.txt # 自动扫描直播源 IPTV4
+ https://live.izbds.com/tv/iptv4.m3u # M3U 格式直播源（已带台标和EPG）
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u # 百视通源
+ https://raw.githubusercontent.com/vamoschuck/TV/main/M3U # 茶客源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u # 重庆广电源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u # 阳泉广电源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u # 国内4K/8K源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u # 河北广电源
+ https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
+
+纯 IPv6 源：
+ https://live.izbds.com/tv/iptv6.txt # 自动扫描直播源 IPTV6
+ https://live.izbds.com/tv/iptv6.m3u # M3U 格式直播源（已带台标和EPG）
+ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u # 范明明直播源
+ https://live.fanmingming.com/tv/m3u/ipv6.m3u # 范明明直播源国内镜像加速地址
+ https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u # YueChan 直播源
+ https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u # whpsky 源
+ https://gitee.com/xxy002/zhiboyuan/raw/master/dsy # （央视频道、卫视频道、港澳台、数字电视、动漫）
+
+部分 IPv4、部分 IPv6 源：
+ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u # TV直播源
+ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u # Kimentanm源，有部分IPv6
+ https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u # BigBigGrandG源，有部分IPv6
+ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u # YanG集合源，有部分IPv6
+ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u # 范明明直播源，有部分IPv6
+ 
+部分海外源：
+ https://epg.pw/test_channels.m3u # 中国大陆频道
+ https://epg.pw/test_channels_hong_kong.m3u # 中国香港频道
+ https://epg.pw/test_channels_macau.m3u # 中国澳门频道
+ https://epg.pw/test_channels_taiwan.m3u # 中国台湾频道
+ https://iptv-org.github.io/iptv/countries/tw.m3u # 中国台湾频道
+ https://epg.pw/test_channels_singapore.m3u # 新加坡频道
+ https://epg.pw/test_channels_malaysia.m3u # 马来西亚频道
+ https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8 # 世界各地免费电视频道
+ https://iptv-org.github.io/iptv/index.m3u # 世界各地免费电视频道
+
+其他直播源：
+ http://emby.free.coms.su/diyp/live.php # 斗鱼影厅
+ https://goodiptv.vercel.app/huyayqk.m3u # 虎牙直播源
+ https://goodiptv.vercel.app/douyuyqk.m3u # 斗鱼直播源
+ https://www.goodiptv.club/bililive.m3u # 哔哩哔哩直播源
+ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u # 虎牙直播源
+ https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u # 斗鱼直播源
 ```
 
 ## 免责声明

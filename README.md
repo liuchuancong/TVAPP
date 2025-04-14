@@ -99,6 +99,8 @@
  http://ok321.top/ok		# OK影视公开接口
  https://ztha.top/TVBox/thdjk.json		# 挺好分享
  https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json		# 宝盒VIP
+ http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌  # 欧歌
+ https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin  # 多多
 
 多仓：
  https://www.iyouhun.com/tv/yh   # 游魂多仓
@@ -110,8 +112,6 @@
  https://bitbucket.org/xduo/cool/raw/main/room.json   # 多多影音
  https://qixing.myhkw.com/DC.txt   # 七星宝盒
  http://xmbjm.fh4u.org/dc.txt   # 拾光多仓
- https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin  # OK多仓
- http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌  # 欧歌
 ```
 
 ## 直播源 🌟
@@ -170,8 +170,9 @@
 
 其他直播源：
  http://emby.free.coms.su/diyp/live.php # 斗鱼影厅
- https://goodiptv.vercel.app/huyayqk.m3u # 虎牙直播源
- https://goodiptv.vercel.app/douyuyqk.m3u # 斗鱼直播源
+ https://live.freetv.top/huyayqk.m3u # 虎牙一起看
+ https://live.freetv.top/douyuyqk.m3u # 斗鱼一起看
+ https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top # YY轮播
  https://www.goodiptv.club/bililive.m3u # 哔哩哔哩直播源
  https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u # 虎牙直播源
  https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u # 斗鱼直播源

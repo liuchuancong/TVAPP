@@ -102,6 +102,7 @@
  https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json		# 宝盒VIP
  http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌  # 欧歌
  https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin  # 多多
+ https://哪吒.live/	# 哪吒
 
 多仓：
  https://www.iyouhun.com/tv/yh   # 游魂多仓
@@ -126,10 +127,12 @@
  http://8.138.7.223/live.txt  # 熊猫直播源
  http://47.120.41.246:8899/zb.txt  # IPTV直播
  https://live.kilvn.com/iptv.m3u  # 自动更新源(上游范明明源)
- https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u  # 天微M3U
  https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959  # 野火959
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
+ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u   # IPTV 默认源
+ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u   # IPTV IPv4
+ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u   # IPTV IPv6
 
 纯 IPv4 源：
  https://live.izbds.com/tv/iptv4.txt # 自动扫描直播源 IPTV4

@@ -34,7 +34,7 @@
 | 我的电视                | v1.3.9.8  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/OurTV_3.9.1_android_tv.apk) | 🟢    | 电视直播软件，安装即可使用，高清，超清，蓝光，完全免费。如果播放卡顿，可使用3.1.1版本。 |
 | 酷9直播                 | v1.6.5.4  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9_1.6.5.4.apk) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿 |
-| HTV直播                 | v3.0.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/HTV-v3.0.0.apk) | 🟢    | 开源版全新电视直播软件，兼容Android 4.4和IPv4，可播放rtp等各种源 |
+| HTV直播                 | v3.2.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/HTV-3.2.apk) | 🟢    | 开源版全新电视直播软件，兼容Android 4.4和IPv4，可播放rtp等各种源，**内置咪咕源** |
 | 小飞电视                | v2.7.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/xiaofeitv_v2.7.0.apk) | 🟢    | 小飞电视app是一款免费用来播放高清电视的工具，可以在各种安卓电视，手机上面观看高清的电视节目，其主要为用户提供央视、卫视、各地方电视台。 |
 | 千寻直播                | v1.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/千寻直播_1.1.0[支持语音换台].apk) | 🟢    | 这又是一款免费的电视直播App，支持央视、卫视、各地方电视台。**支持语音换台**。 |
 | 星火TV                  | v1.0.48   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/星火TV_1.0.48.apk) | 🟢    | 完全免费，无需登录、无需授权，无任何广告弹窗，最大限度的简化页面结构，呈现给您最直观、最纯粹的电视节目。去广告去启动购物台版，5000+频道 |

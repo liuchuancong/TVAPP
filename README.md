@@ -31,6 +31,7 @@
 | 金音KTV·金尊专享会员版  | 20250309  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E9%87%91%E9%9F%B3%C2%B7%E9%87%91%E5%B0%8A%E4%B8%93%E4%BA%AB%E4%BC%9A%E5%91%98%E7%89%88.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 爱唱KTV会员版           | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/爱唱KTV-v2.16.58会员版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 智能K歌解锁VIP版        | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智能K歌-v2.16.58解锁VIP版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
+| 智享K歌                 | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智享K歌_2.16.58.2411111420.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 我的电视                | v1.3.9.8  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/OurTV_3.9.1_android_tv.apk) | 🟢    | 电视直播软件，安装即可使用，高清，超清，蓝光，完全免费。如果播放卡顿，可使用3.1.1版本。 |
 | 酷9直播                 | v1.6.5.4  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9_1.6.5.4.apk) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿 |

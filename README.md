@@ -10,7 +10,7 @@
 
 | APP名称                 | 版本      | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | --------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| TVBox                   | 20250425  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
+| TVBox                   | 20250508  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
 | 影视仓                  | v6.0.9.3  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓电视版6.0.9.3.apk) | 🟢    | 安卓5.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享 |
 | 影视仓                  | v5.0.40.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓_5.0.40.1.apk) | 🟢    | 兼容低版本，最新版本闪退的可以安装这个试试                   |
 | 月光宝盒Box             | 20250415  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒Box0415.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |

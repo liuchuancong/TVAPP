@@ -63,6 +63,7 @@
 | SimpleLiveTV            | v1.3.2   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/SimpleLive/TV版1.3.2/app-armeabi-v7a-release.apk) | 🟢    | 简简单单的看直播，聚合抖音直播、斗鱼直播、虎牙直播和哔哩哔哩直播等 |
 | 动漫鸭                  | v10.1.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/动漫鸭_10.1.0.apk) | 🟢    | 动漫鸭是一款内置源的全新影视TV，虽然名字叫动漫鸭，但却是一款实打实的多线路源影视播放器，主要还是看内置的源，无需注册登录，无广告，无限制！ |
 | FM影视内置共存版        | v3.8.1   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
+| 新五岳影视TV            |          | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/新五岳影视TV4K.apk) | 🟢    | 免扫4K神器，目前只有TV端，可看直播，无需设置，直接使用，新老片源几乎都有，4K+蓝光任意选择，4K免扫，基本满足日常需求 |
 | ...updating             |          |                                                              |      |                                                              |
 
 ## 接口源 🌟

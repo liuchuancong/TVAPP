@@ -67,6 +67,8 @@
 
 ## 接口源 🌟
 
+> github地址使用时 请自行添加代理
+
 所有接口都是经过测试的，如果出现加载失败等情况，可能是因为接口针对的盒子有兼容问题，可以多试试几个接口
 <details>
   <summary>单线路、多线路、多仓概念</summary>
@@ -87,9 +89,11 @@
  http://我不是.摸鱼儿.com			# 摸鱼儿接口
  http://肥猫.com				# 肥猫接口
  http://fty.xxooo.cf/tv			# 神秘哥哥们备用接口
+ https://xn--8owq8u.com/tv/	# 毒盒
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
  https://cdn.gitmirror.com/bb/xduo/libs/master/index.json 	# 道长接口
+ https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json			# PG接口
  http://mzjk.top/禁止贩卖			# 宝盒接口
  http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
  https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json		# 南风接口
@@ -100,7 +104,8 @@
  http://www.mpanso.com/小米/DEMO.json		# 小米
  http://xhztv.top/xhz		# 小盒子单仓
  http://xhztv.top/4k.json		# 小盒子4K
- https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json		# 潇洒接口
+ https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json		# 潇洒接口
+ https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json	# 香雅情
  https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
  https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json		# 蜂蜜接口
  http://ok321.top/tv		# OK影视内部接口
@@ -110,6 +115,10 @@
  http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌  # 欧歌
  https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin  # 多多
  https://哪吒.live/	# 哪吒
+ https://www.252035.xyz/z/FongMi.json	# 真心
+ http://meowtv.cn/tv	# 喵影视
+ http://fmys.top/fmys.json	# 驸马
+ https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json	# 青龙
 
 多仓：
  https://www.iyouhun.com/tv/yh   # 游魂多仓

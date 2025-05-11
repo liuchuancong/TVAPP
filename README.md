@@ -18,8 +18,8 @@
 | 月光宝盒PLUS            | 20250309 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%BD%B1%E8%A7%86/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92PLUS0309.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
 | 宝盒TV                  | v2.8.9   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/宝盒TV2.8.9.apk) | 🟢    | 基于OK影视二开的内置源影视TV                                 |
 | FongMi影视              | v3.8.1   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
-| OK影视                  | v2.8.9   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视-电视版-2.8.9.apk) | 🟢    | 标准版                                                       |
-| OK影视Pro               | v3.2.9   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视Pro-电视版-3.2.9.apk) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
+| OK影视                  | v2.9.0   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视-电视版-2.9.0.apk) | 🟢    | 标准版                                                       |
+| OK影视Pro               | v3.3.0   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视Pro-电视版-3.3.0.apk) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.0.9.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧歌2025-5-7欧6.0.9.3.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 欧歌影视魔改            | v6.0.9.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧歌2025-5-7魔欧6.0.9.3.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 七星影仓                | v6.0.9.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓_电视版6.0.9.3(内置点配置点确定).apk) | 🟢    | 天微大佬基于影视仓内置接口源，内置点配置点确定               |
@@ -63,7 +63,7 @@
 | SimpleLiveTV            | v1.3.2   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/SimpleLive/TV版1.3.2/app-armeabi-v7a-release.apk) | 🟢    | 简简单单的看直播，聚合抖音直播、斗鱼直播、虎牙直播和哔哩哔哩直播等 |
 | 动漫鸭                  | v10.1.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/动漫鸭_10.1.0.apk) | 🟢    | 动漫鸭是一款内置源的全新影视TV，虽然名字叫动漫鸭，但却是一款实打实的多线路源影视播放器，主要还是看内置的源，无需注册登录，无广告，无限制！ |
 | FM影视内置共存版        | v3.8.1   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
-| 新五岳影视TV            |          | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/新五岳影视TV4K.apk) | 🟢    | 免扫4K神器，目前只有TV端，可看直播，无需设置，直接使用，新老片源几乎都有，4K+蓝光任意选择，4K免扫，基本满足日常需求 |
+| 新五岳影视TV            | v2.3.9   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/新五岳影视TV4K.apk) | 🟢    | 免扫4K神器，目前只有TV端，可看直播，无需设置，直接使用，新老片源几乎都有，4K+蓝光任意选择，4K免扫，基本满足日常需求 |
 | ...updating             |          |                                                              |      |                                                              |
 
 ## 接口源 🌟

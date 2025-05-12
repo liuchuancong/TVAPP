@@ -144,16 +144,21 @@
  http://8.138.7.223/live.txt  # 熊猫直播源
  http://47.120.41.246:8899/zb.txt  # IPTV直播
  https://live.kilvn.com/iptv.m3u  # 自动更新源(上游范明明源)
+ https://tv.iill.top/m3u/Gather		# YanG-1989
  https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959  # 野火959
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
  https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u   # IPTV 默认源
  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u   # IPTV IPv4
  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u   # IPTV IPv6
+ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u # myIPTV IPv4
+ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u # myIPTV IPv6
 
 纯 IPv4 源：
  https://live.izbds.com/tv/iptv4.txt # 自动扫描直播源 IPTV4
  https://live.izbds.com/tv/iptv4.m3u # M3U 格式直播源（已带台标和EPG）
+ https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u	# YueChan
+ https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u	# BurningC4
  https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u # 百视通源
  https://raw.githubusercontent.com/vamoschuck/TV/main/M3U # 茶客源
  https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u # 重庆广电源
@@ -166,7 +171,7 @@
  https://live.izbds.com/tv/iptv6.txt # 自动扫描直播源 IPTV6
  https://live.izbds.com/tv/iptv6.m3u # M3U 格式直播源（已带台标和EPG）
  https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u # 范明明直播源
- https://live.fanmingming.com/tv/m3u/ipv6.m3u # 范明明直播源国内镜像加速地址
+ https://live.fanmingming.cn/tv/m3u/ipv6.m3u # 范明明直播源国内镜像加速地址
  https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u # YueChan 直播源
  https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u # whpsky 源
  https://gitee.com/xxy002/zhiboyuan/raw/master/dsy # （央视频道、卫视频道、港澳台、数字电视、动漫）

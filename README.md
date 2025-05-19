@@ -36,7 +36,7 @@
 | 智享K歌                 | v2.16.58  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智享K歌_2.16.58.2411111420.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 我的电视                | v1.3.9.8  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/OurTV_3.9.1_android_tv.apk) | 🟢    | 电视直播软件，安装即可使用，高清，超清，蓝光，完全免费。如果播放卡顿，可使用3.1.1版本。 |
-| 酷9直播                 | v1.7.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9直播) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿 |
+| 酷9直播                 | v1.7.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9直播) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿。具体看文件夹说明 |
 | HTV直播                 | v3.2.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/HTV-3.2.apk) | 🟢    | 开源版全新电视直播软件，兼容Android 4.4和IPv4，可播放rtp等各种源，**内置咪咕源** |
 | 小飞电视                | v2.7.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/xiaofeitv_v2.7.0.apk) | 🟢    | 小飞电视app是一款免费用来播放高清电视的工具，可以在各种安卓电视，手机上面观看高清的电视节目，其主要为用户提供央视、卫视、各地方电视台。 |
 | 千寻直播                | v1.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/千寻直播_1.1.0[支持语音换台].apk) | 🟢    | 这又是一款免费的电视直播App，支持央视、卫视、各地方电视台。**支持语音换台**。 |
@@ -64,7 +64,7 @@
 | 动漫鸭                  | v10.1.0   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/动漫鸭_10.1.0.apk) | 🟢    | 动漫鸭是一款内置源的全新影视TV，虽然名字叫动漫鸭，但却是一款实打实的多线路源影视播放器，主要还是看内置的源，无需注册登录，无广告，无限制！ |
 | FM影视内置共存版        | v3.8.5    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
 | 新五岳影视TV            | v2.3.9    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/新五岳影视TV4K.apk) | 🟢    | 免扫4K神器，目前只有TV端，可看直播，无需设置，直接使用，新老片源几乎都有，4K+蓝光任意选择，4K免扫，基本满足日常需求 |
-| OK影视内置共存版        | v2.9.1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
+| OK影视内置共存版        | v2.9.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
 | 直播电视                | v20250426 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/zbds_v20250426.apk) | 🟢    | 手机电视通用。软件永久免费使用！普通用户默认显示365天，到期会自动续期。10000+节目源每天定时更新 |
 | 应用管家                | v1.6.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/应用管家v1.6.2.apk) | 🟢    | 可以管理电视应用、文件，还能提取电视应用，当然也能传送应用到电视进行安装。支持TV、车机、android 4.3以上 |
 | MT 管理器               | v2.18.2   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MT管理器.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |

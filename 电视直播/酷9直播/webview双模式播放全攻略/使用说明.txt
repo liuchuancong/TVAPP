@@ -1,0 +1,3 @@
+1、安装酷9原版1.7.2_20250515_2202.apk
+2、打开酷9，将webview.txt放到本地 酷9 文件夹下的 localData 文件夹下
+3、将webview_jscode.js 放到本地 酷9 文件夹下的 webview_Jscode 文件夹下

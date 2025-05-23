@@ -70,6 +70,9 @@
 | MT 管理器               | v2.18.2   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MT管理器.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
 | NP 管理器               | v3.1.17   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/NP管理器.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
 | 囧次元                  | v1.0.0.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/囧次元TV_1.0.0.0.apk) | 🟢    | 新版冏次元，支持安卓+TV双端，涵盖了日漫、国漫、剧场等类型。已解锁，TV 版需要切换为账号登录，无需输入任何内容，直接点击登录即可。 |
+| 戏曲多多                | v1.0.4.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/戏曲多多.apk) | 🟢    | 戏曲多多TV版是一款中老年人娱乐软件。为广大喜爱戏曲的朋友们提供戏曲评书大全、京剧相声小说二人转、经典老电影、热门广场舞等休闲娱乐功能！ |
+| 梨园行戏曲              | v1.0.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/4K梨园戏TV高级版1.0.2.apk) | 🟢    | 4k高级版，优质的戏曲播放软件                                 |
+| 七星戏曲                | v1.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/七星戏曲1.0.apk) | 🟢    | 熟悉的box应用风格，七星影城天哥的作品。真·免费无套路！不用充会员，不用看广告，点开就能看全场！ |
 | ...updating             |           |                                                              |      |                                                              |
 
 ## 接口源 🌟

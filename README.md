@@ -129,6 +129,8 @@
  http://meowtv.cn/tv	# 喵影视
  http://fmys.top/fmys.json	# 驸马
  https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json	# 青龙
+ https://fmbox.cc/	# 星辰
+ https://raw.githubusercontent.com/maoystv/6/main/000.json	# 分享
 
 多仓：
  https://www.iyouhun.com/tv/yh   # 游魂多仓

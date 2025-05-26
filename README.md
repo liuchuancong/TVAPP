@@ -23,7 +23,7 @@
 | 欧歌影视                | v6.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧歌2025-5-20欧6.1.0.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 欧歌影视魔改            | v6.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧歌2025-5-20魔欧6.1.0.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 七星影仓                | v6.0.9.3  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓_电视版6.0.9.3(内置点配置点确定).apk) | 🟢    | 天微大佬基于影视仓内置接口源，内置点配置点确定               |
-| 七星影仓V3              | v3        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓_电视版6.0.9.3(内置点配置点确定).apk) | 🟢    | 天微大佬基于影视仓V3稳定版内置接口源，内置点配置点确定。兼容安卓4.4以下 |
+| 七星影仓V3              | v3.0.35   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓_电视版6.0.9.3(内置点配置点确定).apk) | 🟢    | 天微大佬基于影视仓V3稳定版内置接口源，内置点配置点确定。兼容安卓4.4以下 |
 | 小苹果影视              | v1.5.8    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XPGBOX-release-1.5.8.apk) | 🟢    | 内置上百线路资源。免输入接口，安装即用                       |
 | 好好看TV版              | v1.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/好好看_TV_1.1.0.apk) | 🟢    | 网飞猫同一系列，纯净无广告。汇集了Netflix、电影、短剧、剧集、动漫、综艺等资源，各大平台资源同步更新，内置多条超清、蓝光、优质等线路，支持投屏、影评等功能 |
 | 全民K歌(MV版)           | v5.9.0.1  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K%E6%AD%8C/%E5%85%A8%E6%B0%91K%E6%AD%8C(MV%E7%89%88)v5.9.0.1(%E5%85%8D%E7%99%BB%E5%BD%95%E7%89%88).apk) | 🟢    | 联想盒子提取免登录版                                         |
@@ -73,6 +73,7 @@
 | 戏曲多多                | v1.0.4.0  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/戏曲多多.apk) | 🟢    | 戏曲多多TV版是一款中老年人娱乐软件。为广大喜爱戏曲的朋友们提供戏曲评书大全、京剧相声小说二人转、经典老电影、热门广场舞等休闲娱乐功能！ |
 | 梨园行戏曲              | v1.0.2    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/4K梨园戏TV高级版1.0.2.apk) | 🟢    | 4k高级版，优质的戏曲播放软件                                 |
 | 七星戏曲                | v1.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/七星戏曲1.0.apk) | 🟢    | 熟悉的box应用风格，七星影城天哥的作品。真·免费无套路！不用充会员，不用看广告，点开就能看全场！ |
+| 饭太硬                  | v9.9.9    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/飯太硬_9.9.9.apk) | 🟢    | 内置饭太硬本地源版本                                         |
 | ...updating             |           |                                                              |      |                                                              |
 
 ## 接口源 🌟

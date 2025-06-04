@@ -79,6 +79,7 @@
 | 云视听快TV              | v3.9.1.2010 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/云视听快TV_3.9.1.apk) | 🟢    | 快手的TV版，去除更新升级无付费内容的老版本，对比新版只是删除了几个付费的栏目！ |
 | 魔音MORIN               | v3.7.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/魔音MORIN-3.7.0去广告激活版.apk) | 🟢    | 音乐播放器、无损音乐下载工具，去广告解锁VIP会员精简版        |
 | 音悦                    | v2.4.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/音悦2.4.0.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
+| ES文件浏览器            | v4.4.3.1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/ES文件浏览器-4.4.3.1--IP-All-Balatan.apk) | 🟢    | 解锁所有付费VIP会员特权、免广告，登录既是永久 VIP            |
 | ...updating             |             |                                                              |      |                                                              |
 
 ## 接口源 🌟

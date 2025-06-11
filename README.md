@@ -85,6 +85,7 @@
 | 音悦                    | v2.4.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/音悦2.4.0.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
 | ES文件浏览器            | v4.4.3.1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/ES文件浏览器-4.4.3.1--IP-All-Balatan.apk) | 🟢    | 解锁所有付费VIP会员特权、免广告，登录既是永久 VIP            |
 | 淘知学堂TV              | v1.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/淘知学堂TV已解锁会员.apk) | 🟢    | 本软件适合学生或家中有学生的安装，解锁高级特权，所有内容无限制播放，足不出户在家就能随时 随地高效学习。 |
+| 宝盒TV(FM内置版)        | v3.9.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/宝盒TV版3.9.9(FM内置版).apk) | 🟢    | 基于Fongmi影视壳子内置开发的宝盒                             |
 | ...updating             |             |                                                              |      |                                                              |
 
 ## 接口源 🌟

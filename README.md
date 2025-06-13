@@ -73,7 +73,7 @@
 | OK影视内置共存版        | v2.9.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
 | 直播电视                | v20250426   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/zbds_v20250426.apk) | 🟢    | 手机电视通用。软件永久免费使用！普通用户默认显示365天，到期会自动续期。10000+节目源每天定时更新 |
 | 应用管家                | v1.6.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/应用管家v1.6.3-公签版.apk) | 🟢    | 可以管理电视应用、文件，还能提取电视应用，当然也能传送应用到电视进行安装。支持TV、车机、android 4.3以上 |
-| MT 管理器               | v2.18.2     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MT管理器.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
+| MT 管理器               | v2.18.4     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MT管理器2.18.4.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
 | NP 管理器               | v3.1.21     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/NP管理器-3.1.21.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
 | 囧次元                  | v1.0.0.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/囧次元TV_1.0.0.0.apk) | 🟢    | 新版冏次元，支持安卓+TV双端，涵盖了日漫、国漫、剧场等类型。已解锁，TV 版需要切换为账号登录，无需输入任何内容，直接点击登录即可。 |
 | 戏曲多多                | v1.0.4.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/戏曲多多.apk) | 🟢    | 戏曲多多TV版是一款中老年人娱乐软件。为广大喜爱戏曲的朋友们提供戏曲评书大全、京剧相声小说二人转、经典老电影、热门广场舞等休闲娱乐功能！ |

@@ -24,7 +24,7 @@
 | 欧歌影视魔改            | v6.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/魔欧6.1.2-exo1.6.1修正无声倍速.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 七星影仓                | v6.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓_电视版6.1.2-exo1.4.1(点确定).apk) | 🟢    | 天微大佬基于影视仓内置接口源，内置点配置点确定               |
 | 七星影仓V3              | v3.0.35     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓_电视版6.0.9.3(内置点配置点确定).apk) | 🟢    | 天微大佬基于影视仓V3稳定版内置接口源，内置点配置点确定。兼容安卓4.4以下 |
-| 小苹果影视              | v1.5.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XPGBOX-release-1.5.8.apk) | 🟢    | 内置上百线路资源。免输入接口，安装即用                       |
+| 小苹果影视              | v1.5.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XPGBOX-release-1.5.9.apk) | 🟢    | 内置上百线路资源。免输入接口，安装即用                       |
 | 好好看TV版              | v1.1.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/好好看_TV_1.1.0.apk) | 🟢    | 网飞猫同一系列，纯净无广告。汇集了Netflix、电影、短剧、剧集、动漫、综艺等资源，各大平台资源同步更新，内置多条超清、蓝光、优质等线路，支持投屏、影评等功能 |
 | 全民K歌(MV版)           | v5.9.8.1    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/全民K歌_5.9.8.1(VIP).apk) | 🟢    | 联想盒子提取免登录版                                         |
 | 咪咕爱唱                | v9.9.012    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/咪咕爱唱_9.9.012.apk) | 🟢    | VIP版，登录即是连续包月会员                                  |

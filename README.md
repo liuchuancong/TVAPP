@@ -11,7 +11,7 @@
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | TVBox                   | 20250513    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
-| 影视仓                  | v6.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/TV版6.1.2) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享 |
+| 影视仓                  | v6.1.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/TV版6.1.3) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享 |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box0601.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
 | 月光宝盒Max             | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0601.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
@@ -70,7 +70,7 @@
 | 动漫鸭                  | v10.1.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/动漫鸭_10.1.0.apk) | 🟢    | 动漫鸭是一款内置源的全新影视TV，虽然名字叫动漫鸭，但却是一款实打实的多线路源影视播放器，主要还是看内置的源，无需注册登录，无广告，无限制！ |
 | FM影视内置共存版        | v4.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
 | 新五岳影视TV            | v2.3.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/新五岳影视TV4K.apk) | 🟢    | 免扫4K神器，目前只有TV端，可看直播，无需设置，直接使用，新老片源几乎都有，4K+蓝光任意选择，4K免扫，基本满足日常需求 |
-| OK影视内置共存版        | v2.9.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
+| OK影视内置共存版        | v2.9.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
 | 直播电视                | v20250426   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/zbds_v20250426.apk) | 🟢    | 手机电视通用。软件永久免费使用！普通用户默认显示365天，到期会自动续期。10000+节目源每天定时更新 |
 | 应用管家                | v1.6.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/应用管家v1.6.3-公签版.apk) | 🟢    | 可以管理电视应用、文件，还能提取电视应用，当然也能传送应用到电视进行安装。支持TV、车机、android 4.3以上 |
 | MT 管理器               | v2.18.4     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MT管理器2.18.4.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |

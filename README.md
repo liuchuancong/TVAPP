@@ -20,8 +20,8 @@
 | FongMi影视              | v4.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
 | OK影视                  | v2.9.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-2.9.5.apk) | 🟢    | 标准版                                                       |
 | OK影视Pro               | v3.3.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视Pro-电视版-3.3.5.apk) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
-| 欧歌影视                | v6.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧6.1.2-exo1.6.1修正无声倍速.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
-| 欧歌影视魔改            | v6.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/魔欧6.1.2-exo1.6.1修正无声倍速.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
+| 欧歌影视                | v6.1.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧-6.1.3-exo161.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
+| 欧歌影视魔改            | v6.1.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/魔-6.1.3-exo161.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
 | 七星影仓                | v6.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓_电视版6.1.2-exo1.4.1(点确定).apk) | 🟢    | 天微大佬基于影视仓内置接口源，内置点配置点确定               |
 | 七星影仓V3              | v3.0.35     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/七星影仓_电视版6.0.9.3(内置点配置点确定).apk) | 🟢    | 天微大佬基于影视仓V3稳定版内置接口源，内置点配置点确定。兼容安卓4.4以下 |
 | 小苹果影视              | v1.5.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/XPGBOX-release-1.5.9.apk) | 🟢    | 内置上百线路资源。免输入接口，安装即用                       |

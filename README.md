@@ -112,7 +112,7 @@
  http://我不是.摸鱼儿.com			# 摸鱼儿接口
  http://肥猫.com				# 肥猫接口
  http://fty.xxooo.cf/tv			# 神秘哥哥们备用接口
- https://xn--8owq8u.com/tv/	# 毒盒
+ https://毒盒.com/tv/	# 毒盒
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
  https://cdn.gitmirror.com/bb/xduo/libs/master/index.json 	# 道长接口
@@ -124,7 +124,7 @@
  https://weixine.net/ysc.json			# 运输车
  https://api.hgyx.vip/hgyx.json		# HG接口
  https://dxawi.github.io/0/0.json	# dxawi
- http://www.mpanso.com/小米/DEMO.json		# 小米
+ http://www.mitvbox.xyz/小米/DEMO.json		# 小米
  http://xhztv.top/xhz		# 小盒子单仓
  http://xhztv.top/4k.json		# 小盒子4K
  https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json		# 潇洒接口

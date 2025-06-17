@@ -139,7 +139,7 @@
  https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin  # 多多
  https://哪吒.live/	# 哪吒
  https://www.252035.xyz/z/FongMi.json	# 真心
- http://meowtv.cn/tv	# 喵影视
+ http://www.meowtv.vip/tvbox.json	# 喵影视
  http://fmys.top/fmys.json	# 驸马
  https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json	# 青龙
  https://fmbox.cc/	# 星辰

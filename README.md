@@ -49,7 +49,7 @@
 | 电视家修复版            | v10.2.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/电视家TV+5.0+稳定秒播版+稀缺.apk) | 🟢    | 稳定秒播版+稀缺                                              |
 | 全网通电视              | v1.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/全网通电视(安卓4)1.0.apk) | 🟢    | 支持安卓4，部分频道需要扫描开发者的小程序获取密码，切勿付费！ |
 | 宽带直播                | v1.0.15     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/宽带直播_v1.0.15版.apk) | 🟢    | 大屏直播，简约稳定                                           |
-| iKTV                    | v70.0.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/iktv70.0.0修复下载歌曲.apk) | 🔴    | 纯净新春版，修复下载歌曲功能 曲库新增4000+ 目前下载不了歌曲，用其他的 |
+| KTV                     | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/KTV_80.3.0.apk) | 🟢    | 最新修复版可用了，切勿更新！                                 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/%E5%B0%8F%E9%B8%A1%E6%A8%A1%E6%8B%9F%E5%99%A8TV%E7%89%88v1.1.8%E6%B0%B8%E4%B9%85%E5%8E%BB%E5%8D%87%E7%BA%A7.apk) | 🟢    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。 |
 | 茱元游戏TV              | v2.9.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/茱元游戏TV-2.9.3.apk) | 🟢    | 支持搜索想玩的游戏，下载速度极快，连接手柄就可以轻松畅玩，万款海量游戏终身永久免费玩，让你瞬间回到街机时代的欢乐时光。 |
 | 酷咖游戏                | 20250404    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/酷咖游戏.apk) | 🟢    | 一款支持联机的街机游戏、FC游戏、MD游戏以及SFC游戏等众多经典游戏，涵盖了射击类、格斗类、动作类、策略类、赛车类、体育类、益智类和角色扮演等八种游戏类型。 |

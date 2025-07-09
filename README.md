@@ -234,3 +234,11 @@
 
 - 🚫 本仓库仅作技术分享，所有资源版权归原作者，禁止用于商业用途！
 - ✍️ 提交要求：接受PR，APP应用需标注来源并确认无恶意代码 + 应用测试截图 + 测试时间。
+
+## 特别感谢
+
+本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
+
+[最佳亚洲 CDN、Edge 和安全解决方案 - 腾讯 EdgeOne](https://edgeone.ai/?from=github)
+![](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)
+

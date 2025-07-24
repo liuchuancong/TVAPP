@@ -74,7 +74,7 @@
 | 新五岳影视TV            | v2.3.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/新五岳影视TV4K.apk) | 🟢    | 免扫4K神器，目前只有TV端，可看直播，无需设置，直接使用，新老片源几乎都有，4K+蓝光任意选择，4K免扫，基本满足日常需求 |
 | OK影视内置共存版        | v3.0.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
 | 直播电视                | v20250426   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/zbds_v20250426.apk) | 🟢    | 手机电视通用。软件永久免费使用！普通用户默认显示365天，到期会自动续期。10000+节目源每天定时更新 |
-| 应用管家                | v1.6.4      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/应用管家v1.6.4-公签版.apk) | 🟢    | 可以管理电视应用、文件，还能提取电视应用，当然也能传送应用到电视进行安装。支持TV、车机、android 4.3以上 |
+| 应用管家                | v1.6.6      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/应用管家v1.6.6-公签版.apk) | 🟢    | 可以管理电视应用、文件，还能提取电视应用，当然也能传送应用到电视进行安装。支持TV、车机、android 4.3以上 |
 | MT 管理器               | v2.18.4     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/MT管理器2.18.4.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
 | NP 管理器               | v3.1.21     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/NP管理器-3.1.21.apk) | 🟢    | 文件管理工具和APK逆向修改神器                                |
 | 囧次元                  | v1.0.0.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/囧次元TV_1.0.0.0.apk) | 🟢    | 新版冏次元，支持安卓+TV双端，涵盖了日漫、国漫、剧场等类型。已解锁，TV 版需要切换为账号登录，无需输入任何内容，直接点击登录即可。 |
